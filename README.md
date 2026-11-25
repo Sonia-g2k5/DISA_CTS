@@ -1,0 +1,1 @@
+Agentic AI-Based Smart Inventory Management System: Implemented an Agentic AI solution using Ollama to analyze sales trends and stock availability, predict inventory requirements, and automatically send notifications to shop owners for low-stock alerts and reorder recommendations, helping them manage inventory and stock ordering efficiently.
